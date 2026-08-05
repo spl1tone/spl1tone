@@ -60,7 +60,7 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=spl1tone&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=E50914&icon_color=E50914&text_color=D9D9D9&ring_color=8B0000" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=spl1tone&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=E50914&text_color=D9D9D9&langs_count=8" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=spl1tone&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=E50914&text_color=D9D9D9&langs_count=8&cache_bust=1" height="165"/>
 
 <br><br>
 
