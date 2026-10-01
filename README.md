@@ -31,7 +31,7 @@
 
 ## ▌ ABOUT
 
-- 🎓 1st year @ **Czech Technical University in Prague**, Faculty of Information Technology
+- 🎓 2nd year @ **Czech Technical University in Prague**, Faculty of Information Technology
 - 🔩 Deep into embedded systems — microcontroller work on the ATmega328P in raw AVR Assembly
 - 🧵 Comfortable at the memory level: manual allocators, pointer-heavy C/C++, STL internals
 - 🐧 Linux-based dev environment, Bash scripting, Git for everything
